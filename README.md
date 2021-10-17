@@ -1,2 +1,2 @@
 # phoenix
-Pheonix's first HTML website.
+Phoenix's first HTML website.
